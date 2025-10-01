@@ -3,7 +3,7 @@
 > A lightweight and customizable Benny’s Original Motor Works Shop Script for FiveM.
 This resource provides an in-game shop option for ordering items needed for vehicle modification and repair.
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Language](https://img.shields.io/badge/language-Lua-yellow) ![Framework](https://img.shields.io/badge/framework-QBCore-orange) ![GitHub](https://img.shields.io/badge/GitHub-themiruvo/m-bennys-black?logo=github) ![Build Status](https://img.shields.io/github/actions/workflow/status/themiruvo/m-bennys/ci.yml?branch=main)
+![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Language](https://img.shields.io/badge/language-Lua-yellow) ![Framework](https://img.shields.io/badge/framework-QBCore-orange) ![GitHub](https://img.shields.io/badge/GitHub-themiruvo/m-bennys-black?logo=github)
 
 ## 📋 Table of Contents
 
