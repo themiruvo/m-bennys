@@ -5,13 +5,6 @@ This resource provides an in-game shop option for ordering items needed for vehi
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Language](https://img.shields.io/badge/language-Lua-yellow) ![Framework](https://img.shields.io/badge/framework-QBCore-orange) ![GitHub](https://img.shields.io/badge/GitHub-themiruvo/m-bennys-black?logo=github)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#custom-1759325385979)
-
 ## ℹ️ Project Information
 
 - **👤 Author:** themiruvo
